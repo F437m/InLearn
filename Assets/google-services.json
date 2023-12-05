@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "743073396756",
+    "project_id": "inlearn-db",
+    "storage_bucket": "inlearn-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743073396756:android:c35fd8729613eb33ce4f01",
+        "android_client_info": {
+          "package_name": "com.indevelop.inlearn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbKKWlhfzA9oQcslFvAyo0qVkT5W5PZY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
