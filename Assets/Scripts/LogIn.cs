@@ -9,6 +9,7 @@ public class LogIn : MonoBehaviour
 
     public void Publish()
     {
+        PlayerPrefs.SetInt("Reg", 1);
         SceneManager.LoadScene(sceneName);
     }
 }

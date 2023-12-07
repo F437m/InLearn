@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/3Dchoise.unity
     guid: 8c71b3cd9c20eb24a8586a06d2ffa520
+  - enabled: 1
+    path: Assets/Scenes/SubjectScene.unity
+    guid: 089e9bb8323712f4485490fd13ecb02d
   m_configObjects: {}
